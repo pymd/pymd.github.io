@@ -4,13 +4,22 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://pymd.github.io/atom.xml" rel="self"/>
   <link href="http://pymd.github.io/"/>
-  <updated>2016-04-22T21:07:08+05:30</updated>
+  <updated>2016-04-22T21:30:40+05:30</updated>
   <id>http://pymd.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Piyush]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[An Introduction to Apache Shiro]]></title>
+    <link href="http://pymd.github.io/blog/2016/04/22/apache-shiro-an-introduction/"/>
+    <updated>2016-04-22T21:26:52+05:30</updated>
+    <id>http://pymd.github.io/blog/2016/04/22/apache-shiro-an-introduction</id>
+    <content type="html"><![CDATA[<p>Recently, I&rsquo;ve been experimenting a bit with Apache Shiro for authentication, authorization and session management needs of a small web app I&rsquo;ve working on. This post is my understanding of how apache-shiro works.</p>
+]]></content>
+  </entry>
   
 </feed>
